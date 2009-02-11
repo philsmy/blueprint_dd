@@ -1,5 +1,6 @@
 h1. Blueprint DropDown Readme
-This is a simple extension to "http://blueprintcss.org":blueprintcss
+
+This is a simple extension to "blueprintcss":"http://blueprintcss.org"
 
 h2. Setup Instructions
 
