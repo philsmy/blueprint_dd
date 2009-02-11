@@ -2,9 +2,12 @@ h1. Blueprint DropDown Readme
 
 This is a simple extension to "blueprintcss":http://blueprintcss.org
 
+requires: "blueprintcss tabs":http://github.com/Montoya/blueprint-plugin---tabs/tree/master
+
+
 h2. Setup Instructions
 
-You should/must have blueprint css installed
+You should/must have blueprint css and blueprint tabs installed
 
 # get this out of github and place the whole blueprint_dd directory into your stylesheets directory.
 # add the following to your html (eg your application layout):
